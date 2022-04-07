@@ -1,0 +1,1 @@
+# Tipp_des_Tages_SOLIDWORKS_CRUD
